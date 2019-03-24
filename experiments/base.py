@@ -1,3 +1,7 @@
+#kdavis315
+
+#references: https://github.com/cmaron/CS-7641-assignments
+
 import logging
 import os
 import pandas as pd

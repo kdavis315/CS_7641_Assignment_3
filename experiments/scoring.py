@@ -1,3 +1,7 @@
+#kdavis315
+
+#references: https://github.com/cmaron/CS-7641-assignments
+
 from sklearn.metrics import make_scorer, accuracy_score, f1_score
 from sklearn.utils import compute_sample_weight
 
